@@ -30,10 +30,10 @@ A Firebase-based chat app with email verification
 Tech: JavaScript, HTML, CSS, Firebase  
 [View Code](https://github.com/aswinteekey/juzchat)
 
-### [React Demo Product](https://react-demo-product-2.netlify.app)
-React app showcasing products and reviews  
+### [React Demo Product 2](https://react-demo-product-2.netlify.app)
+A modern React app that displays products and customer reviews fetched from an API  
 Tech: React, Bootstrap  
-[View Code](https://github.com/aswinteekey/react-demo-product)
+[View Code](https://github.com/aswinteekey/react-demo-product-2)
 
 ---
 
